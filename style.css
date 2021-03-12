@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+.line {
+    height: 20px;
+    width: 100px;
+    margin: 8px auto;
+    background: radial-gradient(#00fbff 0%, #fcba03 100%);
+}
+
+#app {
+    background: radial-gradient(#fcba03 0%, #00fbff 100%);
+    width: 100%;
+}
+
+section {
+    padding: 33px;
+}
+
+img {
+    transition: transform .2s;
+    width: 500px;
+}
+
+img:hover {
+    transform: scale(0.939357947334897895438654478875734985738475);
+}
+
+#Games {
+    background: radial-gradient(#fcba03 0%, #00fbff 100%);
+    width: 100%;
+}
+
+#Chatbot {
+    background: radial-gradient(#fcba03 0%, #00fbff 100%);
+    width: 100%;
+}
+
+h1 {font-size: 70px;
+    font-style: oblique;
+font-family: monospace;}
